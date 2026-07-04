@@ -14,6 +14,7 @@ Right now I am focused on:
 
 - Shipping useful tools with simple interfaces
 - Improving developer workflows and automation
+- Using Graphify to understand codebases and map architecture
 - Building systems that are easy to understand, test, and change
 
 ## Selected Work
@@ -33,7 +34,7 @@ Right now I am focused on:
 
 ## Tools I Reach For
 
-`TypeScript` · `Python` · `React` · `Node.js` · `GitHub Actions` · `PostgreSQL` · `Docker`
+`TypeScript` · `Python` · `React` · `Node.js` · `Graphify` · `GitHub Actions` · `PostgreSQL` · `Docker`
 
 ## Contact
 
