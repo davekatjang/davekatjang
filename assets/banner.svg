@@ -1,0 +1,18 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">David Katjang GitHub profile banner</title>
+  <desc id="desc">A clean developer profile banner with a DK monogram and tagline.</desc>
+  <rect width="1280" height="420" fill="#F8FAFC"/>
+  <rect x="48" y="48" width="1184" height="324" rx="28" fill="#111827"/>
+  <path d="M916 48H1204C1219.46 48 1232 60.536 1232 76V372H760L916 48Z" fill="#14B8A6" fill-opacity="0.18"/>
+  <path d="M1032 48H1204C1219.46 48 1232 60.536 1232 76V372H900L1032 48Z" fill="#F59E0B" fill-opacity="0.16"/>
+  <rect x="96" y="96" width="156" height="156" rx="28" fill="#F8FAFC"/>
+  <path d="M124 128H166C199 128 221 151 221 174C221 197 199 220 166 220H124V128ZM155 154V194H164C179 194 188 186 188 174C188 162 179 154 164 154H155Z" fill="#111827"/>
+  <path d="M218 128H250L223 172L254 220H220L197 180V164L218 128Z" fill="#14B8A6"/>
+  <rect x="250" y="128" width="10" height="92" fill="#F59E0B"/>
+  <text x="96" y="302" fill="#94A3B8" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="22">github.com/YOUR_GITHUB_USERNAME</text>
+  <text x="300" y="157" fill="#F8FAFC" font-family="Inter, SF Pro Display, Arial, sans-serif" font-size="58" font-weight="800">David Katjang</text>
+  <text x="304" y="215" fill="#CBD5E1" font-family="Inter, SF Pro Text, Arial, sans-serif" font-size="30">Practical software, built with care.</text>
+  <text x="304" y="268" fill="#94A3B8" font-family="Inter, SF Pro Text, Arial, sans-serif" font-size="22">Product-minded engineering · automation · maintainable systems</text>
+  <path d="M304 310H438" stroke="#14B8A6" stroke-width="6" stroke-linecap="round"/>
+  <path d="M456 310H530" stroke="#F59E0B" stroke-width="6" stroke-linecap="round"/>
+</svg>

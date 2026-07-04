@@ -1,0 +1,30 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">David Katjang technical avatar</title>
+  <desc id="desc">A technical GitHub avatar with DK initials, code brackets, circuit traces, and system nodes.</desc>
+  <rect width="512" height="512" rx="256" fill="#111827"/>
+  <circle cx="256" cy="256" r="222" fill="#F8FAFC"/>
+  <circle cx="256" cy="256" r="198" fill="#111827"/>
+
+  <path d="M112 184L72 224L112 264" stroke="#14B8A6" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M400 184L440 224L400 264" stroke="#F59E0B" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M98 336H150L182 304H226" stroke="#334155" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M414 336H362L330 304H286" stroke="#334155" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 88V136" stroke="#334155" stroke-width="12" stroke-linecap="round"/>
+  <path d="M256 376V424" stroke="#334155" stroke-width="12" stroke-linecap="round"/>
+
+  <circle cx="98" cy="336" r="16" fill="#14B8A6"/>
+  <circle cx="414" cy="336" r="16" fill="#F59E0B"/>
+  <circle cx="256" cy="88" r="16" fill="#14B8A6"/>
+  <circle cx="256" cy="424" r="16" fill="#F59E0B"/>
+
+  <rect x="142" y="142" width="228" height="228" rx="32" fill="#0F172A" stroke="#CBD5E1" stroke-width="8"/>
+  <path d="M170 184H222C262 184 288 210 288 256C288 302 262 328 222 328H170V184ZM212 221V291H222C237 291 245 278 245 256C245 234 237 221 222 221H212Z" fill="#F8FAFC"/>
+  <path d="M286 184H333L296 248L338 328H290L260 266V245L286 184Z" fill="#14B8A6"/>
+  <rect x="334" y="184" width="16" height="144" fill="#F59E0B"/>
+
+  <path d="M170 160H202" stroke="#14B8A6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M310 352H342" stroke="#F59E0B" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="198" cy="160" r="7" fill="#14B8A6"/>
+  <circle cx="314" cy="352" r="7" fill="#F59E0B"/>
+</svg>

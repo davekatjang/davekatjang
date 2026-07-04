@@ -1,0 +1,11 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DK monogram logo</title>
+  <desc id="desc">A precise DK monogram in a technical frame.</desc>
+  <rect width="512" height="512" rx="72" fill="#F8FAFC"/>
+  <rect x="48" y="48" width="416" height="416" rx="44" fill="#111827"/>
+  <path d="M126 132H206C268 132 310 173 310 256C310 339 268 380 206 380H126V132ZM190 186V326H204C231 326 247 304 247 256C247 208 231 186 204 186H190Z" fill="#F8FAFC"/>
+  <path d="M304 132H370L308 246L376 380H306L254 270V236L304 132Z" fill="#14B8A6"/>
+  <path d="M374 132H398V380H374V132Z" fill="#F59E0B"/>
+  <path d="M80 96H128V112H96V144H80V96Z" fill="#14B8A6"/>
+  <path d="M432 416H384V400H416V368H432V416Z" fill="#F59E0B"/>
+</svg>

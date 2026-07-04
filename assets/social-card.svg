@@ -1,0 +1,15 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">David Katjang social preview card</title>
+  <desc id="desc">Social preview artwork for GitHub repositories.</desc>
+  <rect width="1280" height="640" fill="#111827"/>
+  <rect x="72" y="72" width="1136" height="496" rx="32" fill="#F8FAFC"/>
+  <path d="M884 72H1176C1193.67 72 1208 86.3269 1208 104V568H662L884 72Z" fill="#14B8A6" fill-opacity="0.18"/>
+  <path d="M1036 72H1176C1193.67 72 1208 86.3269 1208 104V568H810L1036 72Z" fill="#F59E0B" fill-opacity="0.16"/>
+  <rect x="128" y="128" width="176" height="176" rx="32" fill="#111827"/>
+  <path d="M158 164H206C242 164 266 184 266 216C266 248 242 268 206 268H158V164ZM192 193V239H204C220 239 230 230 230 216C230 202 220 193 204 193H192Z" fill="#F8FAFC"/>
+  <path d="M266 164H302L270 214L306 268H268L241 223V205L266 164Z" fill="#14B8A6"/>
+  <rect x="304" y="164" width="10" height="104" fill="#F59E0B"/>
+  <text x="128" y="382" fill="#111827" font-family="Inter, SF Pro Display, Arial, sans-serif" font-size="68" font-weight="800">David Katjang</text>
+  <text x="132" y="446" fill="#334155" font-family="Inter, SF Pro Text, Arial, sans-serif" font-size="34">Practical software, built with care.</text>
+  <text x="132" y="512" fill="#64748B" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="24">github.com/YOUR_GITHUB_USERNAME</text>
+</svg>
